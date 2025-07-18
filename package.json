@@ -37,7 +37,7 @@
         "dotenv": "^16.4.5",
         "ejs": "^3.1.10",
         "express": "^4.21.2",
-        "express-session": "^1.18.1",
+        "express-session": "^1.18.2",
         "http-status-codes": "^2.3.0",
         "module-alias": "^2.2.3",
         "passport": "^0.7.0",
